@@ -9,3 +9,9 @@ $ funiq userlist
 $ wc -l userlist
 30 userlist
 ```
+
+## Install
+
+```bash
+go get -u github.com/famos0/funiq
+```
