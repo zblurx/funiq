@@ -13,5 +13,5 @@ $ wc -l userlist
 ## Install
 
 ```bash
-go get -u github.com/famos0/funiq
+go get -u github.com/zblurx/funiq
 ```
